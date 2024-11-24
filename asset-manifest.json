@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/draebo-reactwebsite/static/css/main.ee886276.css",
+    "main.js": "/draebo-reactwebsite/static/js/main.b2dac4f8.js",
+    "static/js/453.a6e36acf.chunk.js": "/draebo-reactwebsite/static/js/453.a6e36acf.chunk.js",
+    "static/media/contactus.png": "/draebo-reactwebsite/static/media/contactus.5831d6fe968338a4bc45.png",
+    "static/media/roofframing.jpg": "/draebo-reactwebsite/static/media/roofframing.3aaa752ea705609f88a5.jpg",
+    "static/media/homepagegraphic.png": "/draebo-reactwebsite/static/media/homepagegraphic.54b5e441e2c2ec930c77.png",
+    "static/media/abouttop.png": "/draebo-reactwebsite/static/media/abouttop.4c316239a9c704657525.png",
+    "static/media/kablogo.png": "/draebo-reactwebsite/static/media/kablogo.f796ba80721ddaf68b57.png",
+    "static/media/floorplan.jpg": "/draebo-reactwebsite/static/media/floorplan.e5d2c7cb7373d7aa38a5.jpg",
+    "static/media/elevationexample.jpg": "/draebo-reactwebsite/static/media/elevationexample.6e26564f3052b64ab200.jpg",
+    "static/media/sectionalelevation.jpg": "/draebo-reactwebsite/static/media/sectionalelevation.68eb82b89ccb34d965f0.jpg",
+    "index.html": "/draebo-reactwebsite/index.html",
+    "main.ee886276.css.map": "/draebo-reactwebsite/static/css/main.ee886276.css.map",
+    "main.b2dac4f8.js.map": "/draebo-reactwebsite/static/js/main.b2dac4f8.js.map",
+    "453.a6e36acf.chunk.js.map": "/draebo-reactwebsite/static/js/453.a6e36acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee886276.css",
+    "static/js/main.b2dac4f8.js"
+  ]
+}

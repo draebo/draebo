@@ -1,0 +1,72 @@
+/* App container styles */
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Monotype Corsiva, Helvetica, sans-serif;
+  font-size: 1.2rem; /* Default font size for the entire app */
+}
+
+/* Body styles to ensure consistency */
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 1.2rem; /* Set base font size for body text */
+  line-height: 1.6; /* Ensure readability with spacing between lines */
+}
+
+/* Title for lessons */
+.lessonTitle {
+  font-family: 'Georgia', serif;
+  font-size: 3rem; /* Larger size for lesson title */
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Styling for each lesson item title */
+.lessonItem h1 {
+  font-size: 2.5rem; /* Adjust title size for each lesson */
+  color: #444;
+  margin: 15px;
+}
+
+/* Paragraph text under lesson image */
+.lessonItem p {
+  font-size: 1.2rem; /* Make paragraph text larger */
+  line-height: 1.6;
+  color: #666;
+}
+
+/* List styling for points in each lesson */
+.lessonItem ul {
+  font-size: 1.2rem; /* Ensure list items are easy to read */
+}
+
+/* Lesson list container styling */
+.lessonList {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* Responsive adjustments for smaller screens */
+@media only screen and (max-width: 768px) {
+  .lessonTitle {
+    font-size: 2.5rem; /* Slightly smaller on small screens */
+  }
+
+  .lessonItem h1 {
+    font-size: 2rem;
+  }
+
+  .lessonItem p {
+    font-size: 1.1rem;
+  }
+
+  .lessonItem ul {
+    font-size: 1.1rem;
+  }
+}
